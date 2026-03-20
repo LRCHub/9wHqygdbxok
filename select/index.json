@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "JUNGLE NIGHT",
+  "base_artist": "A BEAT POWER",
+  "createdAt": "2026-03-20T15:45:35.671310Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jungle Night",
+      "artist": "A-Beat Power",
+      "has_synced": false,
+      "path": "select/01_Jungle_Night_A-Beat_Power.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jungle Night",
+      "artist": "A‐Beat Power",
+      "has_synced": false,
+      "path": "select/02_Jungle_Night_A‐Beat_Power.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jungle",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/03_Jungle_Drake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mach dich frei (Jungle Brother Remix)",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": false,
+      "path": "select/04_Mach_dich_frei_(Jungle_Brother_Remix)_Die_Fantastischen_Vier.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm Deranged - Jungle Mix",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/05_I'm_Deranged_-_Jungle_Mix_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm Deranged (Jungle Mix)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/06_I'm_Deranged_(Jungle_Mix)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rückenwind (Jungle mix)",
+      "artist": "Thomas D feat. Good Men Gone Bad",
+      "has_synced": false,
+      "path": "select/07_Rückenwind_(Jungle_mix)_Thomas_D_feat._Good_Men_Gone_Bad.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Swirl (feat. Jungle Pussy & House of Ladosha)",
+      "artist": "Le1f",
+      "has_synced": true,
+      "path": "select/08_Swirl_(feat._Jungle_Pussy_&_House_of_Ladosha)_Le1f.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everytime You Touch Me (NYC Jungle mix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/09_Everytime_You_Touch_Me_(NYC_Jungle_mix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Back In Judy's Jungle",
+      "artist": "Brian Eno",
+      "has_synced": true,
+      "path": "select/10_Back_In_Judy's_Jungle_Brian_Eno.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Back In Judy's Jungle",
+      "artist": "Brian Eno",
+      "has_synced": false,
+      "path": "select/11_Back_In_Judy's_Jungle_Brian_Eno.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bungle In the Jungle",
+      "artist": "Jethro Tull",
+      "has_synced": true,
+      "path": "select/12_Bungle_In_the_Jungle_Jethro_Tull.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Be Afraid (feat. Jungle) [Mixed]",
+      "artist": "Diplo",
+      "has_synced": false,
+      "path": "select/13_Don't_Be_Afraid_(feat._Jungle)_[Mixed]_Diplo.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Be Afraid (feat. Jungle & Damian Lazarus)",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/14_Don't_Be_Afraid_(feat._Jungle_&_Damian_Lazarus)_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Jungle (Rico Nasty Remix)",
+      "artist": "Fred again..",
+      "has_synced": false,
+      "path": "select/15_Jungle_(Rico_Nasty_Remix)_Fred_again...txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Jungle Brother (Urban Takeover mix)",
+      "artist": "Jungle Brothers",
+      "has_synced": false,
+      "path": "select/16_Jungle_Brother_(Urban_Takeover_mix)_Jungle_Brothers.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Jungle (Subzero Remix)",
+      "artist": "Sigma",
+      "has_synced": false,
+      "path": "select/17_The_Jungle_(Subzero_Remix)_Sigma.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JUNGLE NIGHT",
+      "artist": "A BEAT POWER",
+      "has_synced": false,
+      "path": "select/pl_01_JUNGLE_NIGHT_A_BEAT_POWER.txt"
+    }
+  ]
+}
